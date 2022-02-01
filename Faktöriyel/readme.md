@@ -1,4 +1,5 @@
-🎀 Faktöriyel
+# 🎀 Faktöriyel
+
 Bu algoritma ilk inputa göre faktöriyel bastırır.
 
 Sonuç:
