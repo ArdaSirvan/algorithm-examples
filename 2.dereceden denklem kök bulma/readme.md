@@ -1,8 +1,8 @@
-# 🎀 Project Euler Multiples of 3 or 5 Problemi
+# 🎀 2.dereceden denklemin köklerini bulma
 
 ## 🤔 Problem
 
-2.dereceden denklemin köklerini bulma
+2.dereceden denklemin köklerini bulan program
 
 ## C++ kodu
 
