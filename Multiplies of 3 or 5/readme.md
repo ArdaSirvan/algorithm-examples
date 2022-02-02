@@ -4,6 +4,30 @@
 
 ![](https://raw.githubusercontent.com/ArdaSirvan/algorithm-examples/main/Multiplies%20of%203%20or%205/problem.PNG)
 
-#### ✔️ Sonuç:
+## C++ kodu
+
+```c++
+
+#include <iostream>
+
+using namespace std;
+
+int
+main ()
+{
+  int result=0;
+  for (int i = 1;i<1000;i++)
+    {
+        if(i%3==0 || i%5==0){
+            result=i+result;
+        }
+    }
+    cout << result;
+
+}
+
+```
+
+## ✔️ Sonuç
 
 ![](https://raw.githubusercontent.com/ArdaSirvan/algorithm-examples/main/Multiplies%20of%203%20or%205/output.png)
